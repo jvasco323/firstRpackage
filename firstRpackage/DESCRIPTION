@@ -1,0 +1,9 @@
+Package: firstRpackage
+Type: Package
+Title: CIMMYT breeding program helper functions
+Version: 1.0
+Date: 2022-12-08
+Author: JV Silva, RJ Hijmans
+Maintainer: JV Silva <jvasco323@gmail.com>
+Description: This package is amazing and does everything you need to compute the area of a circle. In the future, we also plan to add the circumference.
+License: GPL (>=3)
